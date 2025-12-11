@@ -1,1 +1,2 @@
-﻿#!/bin/bashecho \HelloJenkins!\
+#!/bin/bash
+echo 'Hello, Jenkins!'
